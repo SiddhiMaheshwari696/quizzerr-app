@@ -133,3 +133,17 @@ input {
     margin-bottom: 2rem;
 }
 }
+
+/* HEADER / NAVBAR */
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.logo {
+    width: 140px;
+    height: auto;
+    margin-bottom: 1rem;
+}
