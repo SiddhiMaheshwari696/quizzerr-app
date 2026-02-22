@@ -80,6 +80,7 @@ h3 {
 }
 
 /* BUTTONS */
+
 .btn {
     font-size: 1.8rem;
     padding: 1rem 0;
@@ -106,6 +107,7 @@ h3 {
 }
 
 /* FORMS */
+
 form {
     width: 100%;
     display: flex;
@@ -123,27 +125,6 @@ input {
 }
 
 #username::placeholder {
-    color: #94a3b8; /* placeholder text */
+    color: #94a3b8;
     opacity: 1;
-
-/* LOGO */
-.logo {
-    width: 160px;       /* change size if needed */
-    height: auto;
-    margin-bottom: 2rem;
-}
-}
-
-/* HEADER / NAVBAR */
-.header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-bottom: 3rem;
-}
-
-.logo {
-    width: 140px;
-    height: auto;
-    margin-bottom: 1rem;
 }
